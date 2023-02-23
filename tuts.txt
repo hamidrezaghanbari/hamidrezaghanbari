@@ -1,0 +1,51 @@
+// 1------ state management --------
+// ---------- (status) zustand, saga, rematch, jotai, x-state, ... => learn from youtube and mediums
+// ---------- (status) create video player package with x-state and rollup
+
+// 2------ react performance + a11y --------
+// ---------- (status) react performance frontend-masters (4:30) => https://downloadly.ir/elearning/video-tutorials/react-performance/
+// ---------- (status) Eyas Mattar Advanced React (Render Performance Best Practices Patterns) 2020-8 (9:15) => https://downloadly.ir/elearning/video-tutorials/advanced-react-render-performance-best-practices-patterns/
+// ---------- (status) Javascript performance frontend-masters (5) => https://downloadly.ir/elearning/video-tutorials/javascript-performance/
+// ---------- (status) Web Performance Fundamentals 2021-3 (4) => https://downloadly.ir/elearning/video-tutorials/web-performance-fundamentals/
+
+// 3------ micro frontend, vite, rollup, webpack --------
+// ---------- (status) Microfrontends with React: A Complete Developer’s Guide (9) => https://downloadly.ir/elearning/video-tutorials/microfrontends-with-react-a-complete-developers-guide-8/
+// ---------- (status) Webpack 5 ninja, build microfrontend Gaurav Soni (8:30) => https://udemyiran.com/product/%D8%A2%D9%85%D9%88%D8%B2%D8%B4-%DA%A9%D8%A7%D9%85%D9%84-%D8%A8%D9%87-%DA%A9%D8%A7%D8%B1%DA%AF%DB%8C%D8%B1%DB%8C-webpack-5/
+// ---------- (status) Webpack to vite, new way for learning OnlyKiosk Tech, (4:27) => https://farinplus.ir/webpack-5-and-vite-a-new-way-to-learn-active-thinking-c799/
+// ---------- (status) Webpack 5: The Complete Guide For Beginners/ and production mode (10) => https://downloadly.ir/elearning/video-tutorials/webpack-4-in-2019-the-complete-tutorial-5/
+// ---------- (status) Rollup: learn by youtube
+
+// 4------ next js, gatsby, web vital --------
+// ---------- (status) next js by andrei (36) => https://downloadly.ir/elearning/video-tutorials/complete-next-js-developer-in-2022-zero-to-mastery-1/
+// ---------- (status) gatsby John Smilga (22) => https://downloadly.ir/elearning/video-tutorials/gatsby-tutorial-and-projects-course-1/
+// ---------- (status) learn web vital => medium
+// ---------- (status) learn react 18 and next 13 new features => youtube
+
+// 5------ DS, ALGO --------
+// ---------- (status) data structure and algorithm for interview by andrei (20) => https://downloadly.ir/elearning/video-tutorials/master-the-coding-interview-data-structures-algorithms-12/
+// ---------- leetcode or hackerrank solve problems 
+
+// 6------ Tests --------
+// ---------- (status) Testing JavaScript with Kent C Dodds (14) => https://downloadly.ir/elearning/video-tutorials/testing-javascript-with-kent-c-dodds/
+// ---------- (status) Testing Next.js Apps with Jest, Testing Library and Cypress and enzyme (8) => https://downloadly.ir/elearning/video-tutorials/testing-next-js-apps-with-jest-testing-library-and-cypress/
+// ---------- (status) translate github repo for tests best practices  
+
+// 7------ Animation --------
+// ---------- (status) css animation learn by videos
+// ---------- (status) animate js Dev ed (6) => https://downloadly.ir/elearning/video-tutorials/the-ultimate-javascript-animation-course/
+// ---------- (status) learn react motion and some animation libraries
+
+// 8------ REST API, Graphql, websocket, realtime chat app --------
+// ---------- (status) GraphQL with React & Node js – Real Time Private Chat App 2022-3 (6:30) => https://downloadly.ir/elearning/video-tutorials/graphql-with-react-node-js-real-time-private-chat-app/
+// ---------- (status) Complete Intro to Real-Time 2021-10 (3:30) => https://downloadly.ir/elearning/video-tutorials/complete-intro-to-real-time/
+
+// 9------ PWA --------
+// ---------- (status) Progressive Web Apps (PWA) – The Complete Guide 2020-7 (16) => https://downloadly.ir/elearning/video-tutorials/progressive-web-apps-pwa-the-complete-guide-5/
+
+// 10----- Web components, stencil js --------
+// ---------- (status) stencil js maximilian (8:30) => https://downloadly.ir/elearning/video-tutorials/web-components-stencil-js-build-custom-html-elements/
+
+// 11----- pure js, js patterns, FP, OOP --------
+// ---------- (status) JavaScript: Understanding the Weird Parts (11:30) => https://downloadly.ir/elearning/video-tutorials/javascript-understanding-the-weird-parts-10/
+// ---------- (status) javascript andrie andvanced tutorial (25:30) => https://downloadly.ir/elearning/video-tutorials/advanced-javascript-concepts-1/
+// ---------- (status) TODO for future
