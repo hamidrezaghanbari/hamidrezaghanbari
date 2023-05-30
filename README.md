@@ -4,13 +4,11 @@
 
 ## I'm a Frontend Developer React and Next js
 
-- 🔭 I am currently serving in the army: [New Computer Research Institute (pnr.ir)!][pnr]!
-
-- 🌱 I’m currently in 🤣
+- 🔭 I am currently working in Upera tv: [Upera (upera.tv)!][upera]!
 
 - 👯 I’m looking to collaborate with other content front end developers
 
-- 🥅 2022 Goals: More and More experience and projects with next js and react
+- 🥅 2023 Goals: More and More experience and projects with next js and react
 
 - ⚡ Fun fact: I love ui/ux my [figma designs][figma]
 
@@ -64,7 +62,7 @@
 [<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][website]
 
 [website]: https://hamidreza-ghanbari.vercel.app
-[pnr]: https://pnr.ir
+[upera]: https://upera.tv
 [github]: https://github.com/hamidrezaghanbari
 [figma]: https://figma.com/hamidghanbari
 [instagram]: https://instagram.com/ryo_ishizaki
