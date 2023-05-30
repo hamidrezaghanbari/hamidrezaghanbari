@@ -4,7 +4,7 @@
 
 ## I'm a Frontend Developer React and Next js
 
-- 🔭 I am currently working in Upera tv: [Upera (upera.tv)!][upera]!
+- 🔭 I am currently working at Upera tv: [Upera (upera.tv)!][upera]!
 
 - 👯 I’m looking to collaborate with other content front end developers
 
