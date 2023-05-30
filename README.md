@@ -6,7 +6,7 @@
 
 - 🔭 I am currently working at Upera tv: [Upera (upera.tv)!][upera]!
 
-- 👯 I’m looking to collaborate with other content front end developers
+- 👯 I’m looking for collaborate with other content front end developers
 
 - 🥅 2023 Goals: More and More experience and projects with next js and react
 
