@@ -16,5 +16,5 @@
 [website]: https://hamidreza-ghanbari.vercel.app
 [upera]: https://upera.tv
 [github]: https://github.com/hamidrezaghanbari
-[figma]: https://figma.com/hamidghanbari
+[figma]: https://www.figma.com/@hamidghanbari
 [linkedin]: https://linkedin.com/in/hamidrezaghanbari
