@@ -8,9 +8,9 @@
 
 - 👯 I’m looking for collaborate with other content front end developers
 
-- 🥅 2023 Goals: More and More experience and projects with next js and react
+- 🥅 2023 Goals: Gaining deeper knowledge about TDD, Web performance and UX. 
 
-- ⚡ Fun fact: I love ui/ux my [figma designs][figma]
+- ⚡ Fun fact: I love ui/ux my [figma designs][figma].
 
 ### Connect with me:
 
@@ -22,7 +22,6 @@
 
 [<img align="left" alt="hamidreza ghanbari | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
-[<img align="left" alt="hamidreza ghanbari | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />
 
@@ -55,15 +54,12 @@
 [<img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />][website]
 
 [<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][website]
-[<img align="left" alt="Bootstrap" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/bootstrap.svg" />][website]
 
 [<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][website]
 
-[<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][website]
 
 [website]: https://hamidreza-ghanbari.vercel.app
 [upera]: https://upera.tv
 [github]: https://github.com/hamidrezaghanbari
 [figma]: https://figma.com/hamidghanbari
-[instagram]: https://instagram.com/ryo_ishizaki
 [linkedin]: https://linkedin.com/in/hamidrezaghanbari
