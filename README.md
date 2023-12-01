@@ -9,7 +9,7 @@
 
 - 🥅 2023 Goals: Gaining deeper knowledge about TDD, Web performance, and UX. 
 
-- ⚡ Fun fact: I love ui/ux my [figma designs][figma].
+- ⚡ Fun fact: I love ui/ux my [figma designs][figma] and writing about my experience [medium articles][medium].
 
 <br />
 
