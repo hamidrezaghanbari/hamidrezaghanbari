@@ -1,7 +1,7 @@
 ### Hi there, I'm Hamidreza Ghanbari [Frontend Engineer][website] 👋
 
 
-## I'm a Frontend Engineer React and Next js
+## I'm a Frontend Engineer
 
 - 🔭 I am currently working at Upera TV: [Upera (upera.tv)!][upera]!
 
