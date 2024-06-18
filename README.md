@@ -5,7 +5,7 @@
 
 - 🔭 I am currently working at Usermost: [Usermost (usermost.com)!][usermost]!
 
-- 👯 I’m Open source contributor [Ant Jalali DatePicker ([npm.com](https://www.npmjs.com/package/antd-jalali-plus))!], and also looking to more collaboration with other front-end developers.
+- 👯 I’m Open source contributor Ant Jalali DatePicker ([npm.com](https://www.npmjs.com/package/antd-jalali-plus)), and also looking to more collaboration with other front-end developers.
 
 - ⚡ Fun fact: I love ui/ux my [figma designs][figma] and writing about my experience [medium articles][medium].
 
