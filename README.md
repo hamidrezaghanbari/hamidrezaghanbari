@@ -3,19 +3,18 @@
 
 ## I'm a Frontend Engineer
 
-- 🔭 I am currently working at Upera TV: [Upera (upera.tv)!][upera]!
+- 🔭 I am currently working at Usermost: [Usermost (usermost.com)!][usermost]!
 
-- 👯 I’m looking to collaborate with other content front-end developers
-
-- 🥅 2023 Goals: Gaining deeper knowledge about TDD, Web performance, and UX. 
+- 👯 I’m Open source contributor [Ant Jalali DatePicker ([npm.com](https://www.npmjs.com/package/antd-jalali-plus))!][jalali], and also looking to more collaboration with other front-end developers.
 
 - ⚡ Fun fact: I love ui/ux my [figma designs][figma] and writing about my experience [medium articles][medium].
 
 <br />
 
 [website]: https://hamidreza-ghanbari.vercel.app
-[upera]: https://upera.tv
+[usermost]: https://usermost.com
 [github]: https://github.com/hamidrezaghanbari
+[jalali]: https://www.npmjs.com/package/antd-jalali-plus
 [figma]: https://www.figma.com/@hamidghanbari
 [medium]: https://www.medium.com/@hamidrezaghanbari
 [linkedin]: https://linkedin.com/in/hamidrezaghanbari
