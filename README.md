@@ -1,4 +1,4 @@
-### Hi there, I'm Hamidreza Ghanbari ([Frontend Engineer][website]) 👋
+### Hi there, I'm Hamid Ghanbari ([Frontend Engineer][website]) 👋
 
 
 ## I'm a Frontend Engineer
